@@ -1,0 +1,64 @@
+{
+  "shoppinglists": [
+    {
+      "title": "new title",
+      "items": [
+        {
+          "text": "muie",
+          "checked": true
+        },
+        {
+          "text": "coaie",
+          "checked": false
+        },
+        {
+          "text": "bici",
+          "checked": false
+        },
+        {
+          "text": "pula",
+          "checked": false
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Clothes",
+      "items": [
+        {
+          "text": "black dress",
+          "checked": false
+        },
+        {
+          "text": "all stars",
+          "checked": false
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "Groceries",
+      "items": [
+        {
+          "text": "Bananas",
+          "checked": true
+        },
+        {
+          "text": "Apples",
+          "checked": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "New Shopping List",
+      "items": [],
+      "id": 6
+    },
+    {
+      "title": "New Shopping List",
+      "items": [],
+      "id": 7
+    }
+  ]
+}
