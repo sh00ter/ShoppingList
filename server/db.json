@@ -1,42 +1,6 @@
 {
   "shoppinglists": [
     {
-      "title": "new title",
-      "items": [
-        {
-          "text": "muie",
-          "checked": true
-        },
-        {
-          "text": "coaie",
-          "checked": false
-        },
-        {
-          "text": "bici",
-          "checked": false
-        },
-        {
-          "text": "pula",
-          "checked": false
-        }
-      ],
-      "id": 1
-    },
-    {
-      "title": "Clothes",
-      "items": [
-        {
-          "text": "black dress",
-          "checked": false
-        },
-        {
-          "text": "all stars",
-          "checked": false
-        }
-      ],
-      "id": 3
-    },
-    {
       "title": "Groceries",
       "items": [
         {
