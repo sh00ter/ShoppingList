@@ -2,6 +2,8 @@
 
 > Shopping List Application
 
+[![Build Status](https://travis-ci.org/sh00ter/ShoppingList.svg?branch=master)](https://travis-ci.org/sh00ter/ShoppingList)
+
 ## Build Setup
 
 ``` bash
